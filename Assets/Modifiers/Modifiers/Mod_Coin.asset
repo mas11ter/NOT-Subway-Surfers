@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7107e9a58df5e84aa621354d6ba97fa, type: 3}
+  m_Name: Mod_Coin
+  m_EditorClassIdentifier: Assembly-CSharp::SO_Modifier
+  TemporaryItemModifiers:
+  - Attribute: 1
+    Amount: 1
+    MakeAmountAPercentOfMax: 0
+    IsOvertime: 0
+    OvertimeDuration: 0
+    OvertimeTick: 0
+    bApplyModifierTickOnInteraction: 0
+    RevertAfterItsDone: 0
+    TimeStarted: 0
+    LastTick: 0
+  MaxPersistentItemModifierInfos: []
+  VFX: {fileID: 0}
+  ItemName: Coin
+  ItemDescription: Coin
+  bShouldUpdate: 0
+  OwnerStatusComp: {fileID: 0}

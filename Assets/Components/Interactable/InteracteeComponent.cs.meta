@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0b00b686f7cf6514d9ade82662fec832
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GenericCanvas: {instanceID: 0}
+  - GenericInteractionPanel: {fileID: 5199306391477254713, guid: d17ad2bfebf8bcf4b94205625e72e222, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
